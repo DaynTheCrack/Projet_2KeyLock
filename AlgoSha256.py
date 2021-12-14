@@ -1,3 +1,4 @@
+import math
 print("CHIFFREMENT/DECHIFFREMENT")
 
 entree = input("FICHIER D'ENTREE: ")
